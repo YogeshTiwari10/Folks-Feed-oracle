@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Folks-Feed-oracle/static/css/main.00160638.css",
-    "main.js": "/Folks-Feed-oracle/static/js/main.93c39cb9.js",
+    "main.js": "/Folks-Feed-oracle/static/js/main.781f28fd.js",
     "static/js/787.cda612ba.chunk.js": "/Folks-Feed-oracle/static/js/787.cda612ba.chunk.js",
     "static/media/walking-man.gif": "/Folks-Feed-oracle/static/media/walking-man.1ec4f3f39e2f42e6f8a9.gif",
     "static/media/background.png": "/Folks-Feed-oracle/static/media/background.0b8f08bf57821bd241f3.png",
@@ -9,11 +9,11 @@
     "static/media/monopixel.otf": "/Folks-Feed-oracle/static/media/monopixel.ab1f5d30ed537268ca66.otf",
     "index.html": "/Folks-Feed-oracle/index.html",
     "main.00160638.css.map": "/Folks-Feed-oracle/static/css/main.00160638.css.map",
-    "main.93c39cb9.js.map": "/Folks-Feed-oracle/static/js/main.93c39cb9.js.map",
+    "main.781f28fd.js.map": "/Folks-Feed-oracle/static/js/main.781f28fd.js.map",
     "787.cda612ba.chunk.js.map": "/Folks-Feed-oracle/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00160638.css",
-    "static/js/main.93c39cb9.js"
+    "static/js/main.781f28fd.js"
   ]
 }
